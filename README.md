@@ -1,0 +1,2 @@
+# WeirdGoblin
+Coded some python
